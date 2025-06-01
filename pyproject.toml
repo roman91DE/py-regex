@@ -1,0 +1,14 @@
+[project]
+name = "py-regex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipython>=9.2.0",
+    "jupyter>=1.1.1",
+    "nbconvert>=7.16.6",
+    "notebook>=7.4.3",
+    "pytest[nb]>=8.3.5",
+    "ruff>=0.11.12",
+]
